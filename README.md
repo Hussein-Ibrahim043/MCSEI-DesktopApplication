@@ -136,8 +136,8 @@ MCSEI/
 
 ## 📸 Screenshots (Samples)
 
-> ![image](https://github.com/user-attachments/assets/220cce01-3860-4a4d-a4ae-02dd491bc368)
-> ![image](https://github.com/user-attachments/assets/27ad5fe5-b560-497f-b91c-1e00b48b8cdd)
+> ![image](https://github.com/user-attachments/assets/ebf9a52c-c4cb-4ca8-bfb6-48fc309c0d3f)
+> ![image](https://github.com/user-attachments/assets/54042ee3-58ec-4f19-9846-7186baeca55e)
 > ![image](https://github.com/user-attachments/assets/8b3b2c57-10f9-4131-b045-d63e9c99a8ea)
 > ![image](https://github.com/user-attachments/assets/6332d633-c784-49a1-9e06-66e57d36a158)
 > ![image](https://github.com/user-attachments/assets/b0914fd4-e078-49d2-a2be-607751541d79)
