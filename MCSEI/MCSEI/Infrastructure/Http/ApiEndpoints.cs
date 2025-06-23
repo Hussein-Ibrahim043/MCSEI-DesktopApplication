@@ -4,7 +4,7 @@ namespace FinalProject_MedicalSystem.Infrastructure.Http
 {
     public static class ApiEndpoints
     {
-        private static readonly string BaseUrl = "https://medical-website-three-delta.vercel.app";
+        private static readonly string BaseUrl = "https://mcsei-production.up.railway.app";
 
         //Auth Endpoints
         public static string Login => $"{BaseUrl}/auth/login";
