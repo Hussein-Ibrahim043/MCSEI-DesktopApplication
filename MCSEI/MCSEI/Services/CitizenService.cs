@@ -15,7 +15,7 @@ namespace Final_Project_SHA_V1._2.Services
     public class CitizenService : ICitizenService
     {
         private static readonly HttpClient client = new HttpClient();
-        public static string URL = "https://medical-website-three-delta.vercel.app";
+        public static string URL = "https://mcsei-production.up.railway.app";
 
         /// <summary>
         /// Ensures that a valid Auth token is set before making any API requests.
