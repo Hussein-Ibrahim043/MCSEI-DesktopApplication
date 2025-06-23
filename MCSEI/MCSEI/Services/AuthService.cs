@@ -12,7 +12,7 @@ namespace Final_Project_SHA_V1._2.Services
     public class AuthService : IAuthService
     {
         private static readonly HttpClient client = new HttpClient();
-        private static readonly string URL = "https://medical-website-three-delta.vercel.app";
+        private static readonly string URL = "https://mcsei-production.up.railway.app";
 
         static AuthService()
         {
